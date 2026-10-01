@@ -1,0 +1,10 @@
+[package]
+name = "bactviz"
+version = "0.2.0"
+edition = "2021"
+description = "Linear genome alignment maps for bacterial genomes: MUMmer collinear blocks + all genes with names, SVG output"
+
+[dependencies]
+
+[profile.release]
+opt-level = 3
