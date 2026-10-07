@@ -1,1 +1,0 @@
-/home/omicscode/Desktop/codeberg/bactviz/target/debug/bactviz: /home/omicscode/Desktop/codeberg/bactviz/src/main.rs /home/omicscode/Desktop/codeberg/bactviz/src/mummer.rs /home/omicscode/Desktop/codeberg/bactviz/src/parse.rs /home/omicscode/Desktop/codeberg/bactviz/src/svg.rs
